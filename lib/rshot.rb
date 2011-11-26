@@ -1,0 +1,2 @@
+# yo
+require "rshot/rshot"
