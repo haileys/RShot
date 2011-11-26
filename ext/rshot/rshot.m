@@ -29,7 +29,6 @@
 
     bmp = [[NSBitmapImageRep alloc] initWithFocusedViewRect: [view bounds]];
     [view unlockFocus];
-    NSLog(@"%@", path);
     [[bmp representationUsingType: NSPNGFileType properties: nil] writeToFile: path atomically: YES];
     
     [NSApp stop: self];

@@ -4,7 +4,6 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification*)notice
 {
-    NSLog(@"applicationDidFinishLaunching");
 }
 
 - (void)threadStart:(NSApplication*)application
