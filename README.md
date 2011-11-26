@@ -15,3 +15,7 @@ Yeah the API is a little sketchy, but I there'll be a good reason for that in th
 
 * It crashes Ruby on exit
 * [The code does shit like this](https://github.com/charliesome/RShot/blob/master/ext/rshot/rshot.m#L35)
+
+## Example
+
+![google homepage](http://i.imgur.com/Y886s.png)
