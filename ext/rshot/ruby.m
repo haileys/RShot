@@ -1,5 +1,5 @@
 #import <AppKit/AppKit.h>
-#include "ruby.h"
+#include <ruby/ruby.h>
 #import "rshot.h"
 #import "app_delegate.h"
 
